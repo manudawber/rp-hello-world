@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hello-world"
-version = "0.1.0"
+version = "0.2.0"
 description = "Hello World repo to test Release Please"
 authors = ["Manu Dawber <manudawber@gmail.com>"]
 readme = "README.md"
