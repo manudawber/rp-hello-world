@@ -1,3 +1,9 @@
+# Hello World
+
+This repo exists to test [release-please](https://github.com/googleapis/release-please).
+
+## Commit messages
+
 Commits should be authored using [Conventional Commit mesages](https://www.conventionalcommits.org).
 
 Valid commit types are:
