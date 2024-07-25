@@ -1,8 +1,10 @@
 import sys
 
+from hello_world.bleat import make_bleat
+
 
 def main() -> int:
-    print("Hello World")
+    make_bleat(2)
     return 0
 
 
